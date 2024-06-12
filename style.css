@@ -264,7 +264,7 @@ button {
 }
 
 .card {
-  width: 185px;
+/*   width: 185px; */
   transition: 0.15s ease-out;
 
   &:nth-child(2n) {
