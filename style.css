@@ -258,7 +258,8 @@ button {
   gap: 30px;
   align-items: center;
   justify-content: space-between;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr, 1fr;
   flex-wrap: wrap;
 }
 
