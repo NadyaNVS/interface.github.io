@@ -208,8 +208,9 @@ button {
     font-size: 0.75rem;
     background-color: var(--c-red-500);
     border-radius: 50%;
-    font-weight: 800;
+    font-weight: 700;
     border: 2px solid var(--c-gray-900);
+    color: var(--c-gray-text);
   }
 }
 
